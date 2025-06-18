@@ -23,7 +23,6 @@ Hi 👋 My name is Shalom Arputha Singh
 # 📊 My Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shalomarputhasingh?theme=dark&font=Commissioner&ext=heatmap)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=shalomarputhasingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shalomarputhasingh&theme=dark)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalomarputhasingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
