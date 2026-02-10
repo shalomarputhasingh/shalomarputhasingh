@@ -3,7 +3,7 @@ Hi 👋 My name is Shalom Arputha Singh
 
 ## About Me 🌟
 
-<img align="right" width="200" height="200" src="https://media.licdn.com/dms/image/v2/D5603AQFD7jYpgAwLmg/profile-displayphoto-shrink_200_200/B56ZO7UJA2GsAY-/0/1734014441255?e=2147483647&v=beta&t=jParWfU1sR3IwMdHPXJvgI-TqtUqwr7HHIljXgMiEnc">
+<img align="right" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuc5DKSBSkHVFjc22Vyj8GHmFKZLSZxqbwA&s">
 
 - 🚀 Interested in Space                                                  
 - 🌱 I’m currently learning DSA
